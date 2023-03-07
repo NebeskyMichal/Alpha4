@@ -1,0 +1,5 @@
+uncle=stryc
+confidence=sebejistota
+interest=zajem
+kidney=ledvina
+divorce=rozvod
